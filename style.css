@@ -1,0 +1,8 @@
+body {
+    background-color: black;
+    color: white;
+    font-family:'Times New Roman', Times, serif
+}
+.list,h1,h2 {
+    text-align: center;
+}
